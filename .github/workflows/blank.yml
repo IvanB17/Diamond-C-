@@ -1,0 +1,19 @@
+/ivan Blanco
+/CIS130 
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+cout<< endl << endl;
+count << "123*567" << endl;
+count << "  ***  " << endl;
+count << " ***** " << endl;
+count << "*******" << endl;
+count << " ***** " << endl;
+count << "  ***  " << endl;
+count << "   *   " << endl;
+count << endl << endl;
+return 0;
+}
